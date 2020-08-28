@@ -10,7 +10,7 @@ If you are interesting in our method, please contact to "seungsab@gmail.com".
 [Source code]
 
 Four automatic peak-pikcing methods can be performed by running the following m-files
-- Step1_Run_Comparative_Study.m: Run four automatic peak-pikcing methods for each class
+- Main_Run_automatic_peak_picking.m: Run four automatic peak-pikcing methods for each class
 
 [Data]
 
