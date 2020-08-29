@@ -11,7 +11,7 @@ If you are interesting in our method, please contact to "seungsab@gmail.com".
 
 [Source code]
 
-Three automatic peak-pikcing methods can be performed with the results of the Faster R-CNN by running the following m-files
+Three automatic peak-pikcing methods can be performed with the results of the Faster R-CNN by running the following m-file
 - Main_Run_automatic_peak_picking.m: Run four automatic peak-pikcing methods for each class
 
 [Data]
