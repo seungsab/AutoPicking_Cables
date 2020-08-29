@@ -5,7 +5,7 @@ Fully-automated peak-picking method using modified AMPD (Automatic multiscale-ba
 The source codes in this repository are uploaded for the replication of results section.
 - S.S. Jin, S.H. Sim, D.W. Seo, Y.S. Park and S.H. Jeong (2020), A fully-automated peak-picking method for autonomous monitoring system of stay-cable structures, in preparation for submission.
 
-All source codes were developed by Dr. S.S. Jin. The results of the Faster R-CNN were obtained using Tensorflow in PYthon by Dr. S.H. Jeong.
+All source codes were developed by Dr. Jin. The results of the Faster R-CNN were obtained using Tensorflow in PYthon by Dr. Jeong.
 The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
 If you are interesting in our method, please contact to "seungsab@gmail.com".
 
