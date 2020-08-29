@@ -1,6 +1,6 @@
 # Automated Peak-Picking for Cable Structures
 
-Fully-automated peak-picking method using modified AMPD (Automatic multiscale-based peak detection) [1] and MAD (Median Absolute Deviation) after baseline-correction [2].
+Fully-automated peak-picking method using modified AMPD (Automatic multiscale-based peak detection) [1] and MAD (Median Absolute Deviation) after Baseline-correction [2].
 
 The source codes in this repository are uploaded for the replication of results section.
 
