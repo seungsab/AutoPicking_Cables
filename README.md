@@ -4,12 +4,13 @@ Fully-automated peak-picking method using modified AMPD (Automatic multiscale-ba
 
 The source codes in this repository are uploaded for the replication of results section.
 
-All source codes were developed by S.S. Jin. The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
+All source codes were developed by Dr. S.S. Jin. The results of the Faster R-CNN were obtained using Tensorflow in PYthon by Dr. S.H. Jeong.
+The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
 If you are interesting in our method, please contact to "seungsab@gmail.com".
 
 [Source code]
 
-Four automatic peak-pikcing methods can be performed by running the following m-files
+Three automatic peak-pikcing methods can be performed with the results of the Faster R-CNN by running the following m-files
 - Main_Run_automatic_peak_picking.m: Run four automatic peak-pikcing methods for each class
 
 [Data]
