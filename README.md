@@ -9,12 +9,12 @@ All source codes were developed by Dr. Jin. The results of the Faster R-CNN were
 The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
 If you are interesting in our method, please contact to "seungsab@gmail.com".
 
-[Source code]
+**[Source code]**
 
 Three automatic peak-pikcing methods can be performed with the results of the Faster R-CNN by running the following m-file
 - Main_Run_automatic_peak_picking.m: Run four automatic peak-pikcing methods for each class
 
-[Data]
+**[Data]**
 
 Three levels of difficulty for automatic peak-picking are defined.
 - f_PSD_data_class_easy_data.mat: 20 PSDs for easy class
@@ -36,7 +36,7 @@ The execution time (second) for peak detection by the pre-trained Faster R-CNN.
 - time_consumption_inter.txt: execution time for intermediate class
 - time_consumption_hard.txt: execution time for hard class
 
-[Result] 
+**[Result]**
 
 All results are in the folders as "Result" with subfolders as follows:
 - Easy: 20 results in jpg-file
