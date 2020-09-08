@@ -3,7 +3,7 @@
 Fully-automated peak-picking method using modified AMPD (Automatic multiscale-based peak detection) [1] and MAD (Median Absolute Deviation) after Baseline-correction [2].
 
 The source codes in this repository are uploaded for the replication of results section.
-- S.S. Jin, S.H. Sim, D.W. Seo, Y.S. Park and S.H. Jeong (2020), A fully-automated peak-picking method for autonomous monitoring system of stay-cable structures, in preparation for submission.
+- S.S. Jin, S.H. Sim, D.W. Seo, Y.S. Park and S.H. Jeong (2020), Fully automated peak-picking method for an autonomous stay-cable monitoring system, Submitted to "Automation in Construction".
 
 All source codes were developed by Dr. Jin. The results of the Faster R-CNN were obtained using Tensorflow in PYthon by Dr. Jeong.
 The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
