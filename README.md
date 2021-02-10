@@ -3,7 +3,7 @@
 Fully-automated peak-picking method using modified AMPD (Automatic multiscale-based peak detection) [1] and MAD (Median Absolute Deviation) after Baseline-correction [2].
 
 The source codes in this repository are uploaded for the replication of results section.
-- S.S. Jin, S.H. Sim, D.W. Seo, Y.S. Park and S.H. Jeong (2020), Fully automated peak-picking method for an autonomous stay-cable monitoring system, Under review in "Automation in Construction".
+- S.S. Jin, S.H. Jeong*, S.H. Sim, D.W. Seo and Y.S. Park (2020), Fully automated peak-picking method for an autonomous stay-cable monitoring system in cable-stayed bridges, Accepted in "Automation in Construction".
 
 All source codes were developed by Dr. Jin.
 
