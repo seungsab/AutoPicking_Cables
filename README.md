@@ -13,10 +13,7 @@ The source codes are only working with the uploaded datasets, since the algorith
 
 If you are interesting in our method, please contact to "seungsab@gmail.com".
 
-**[Tutorial using Python]**
-<h2><B>
-- [Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) is uploaded on 2024.01.04
-</h2></B>
+## [Tutorial using Python]: [Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) (Uploaded on 2024.01.04)
 
 **[Source code]**
 
