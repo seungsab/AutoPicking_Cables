@@ -1,3 +1,5 @@
+# [Tutorial using Python]: [Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) (Uploaded on 2024.01.04)
+
 # Automated Peak-Picking for Cable Structures
 
 Fully-automated peak-picking method using modified AMPD (Automatic multiscale-based peak detection) [1] and MAD (Median Absolute Deviation) after Baseline-correction [2].
@@ -12,8 +14,6 @@ The results of the Faster R-CNN were obtained using Tensorflow in PYthon by Dr. 
 The source codes are only working with the uploaded datasets, since the algorithm is patent pending.
 
 If you are interesting in our method, please contact to "seungsab@gmail.com".
-
-## [Tutorial using Python]: [Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) (Uploaded on 2024.01.04)
 
 **[Source code]**
 
