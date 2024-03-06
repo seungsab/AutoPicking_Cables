@@ -1,4 +1,8 @@
-# [Tutorial using Python]: [Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) (Uploaded on 2024.01.04)
+# **[Release original source code: Tutorial using Python]**
+
+## **[Python code (Jupyter notebook)](./00_Auto%20Peak%20Picking%20based%20on%20Domain%20Knowledge%20for%20Cables.ipynb.ipynb) (Uploaded on 2024.01.04)**
+
+----
 
 # Automated Peak-Picking for Cable Structures
 
